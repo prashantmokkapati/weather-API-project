@@ -13,7 +13,7 @@ I am still making changes to this program in terms of its UI and functionality a
 # References
 Here are the links I used to help me with this project:
 
-https://darksky.net/dev
+https://darksky.net/dev \n
 https://www.youtube.com/watch?v=pxofwuWTs7c
 https://realpython.com/python-send-email/
 https://www.pythoncentral.io/pythons-time-sleep-pause-wait-sleep-stop-your-code/
