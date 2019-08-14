@@ -9,3 +9,13 @@ The latitude and longitude numbers are set to the location I wanted, but they ca
 
 # Further changes
 I am still making changes to this program in terms of its UI and functionality and will be uploading new versions as I go along. 
+
+# References
+Here are the links I used to help me with this project:
+
+https://darksky.net/dev
+https://www.youtube.com/watch?v=pxofwuWTs7c
+https://realpython.com/python-send-email/
+https://www.pythoncentral.io/pythons-time-sleep-pause-wait-sleep-stop-your-code/
+https://serversmtp.com/what-is-smtp-server/	
+https://realpython.com/python-requests/
